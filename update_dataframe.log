@@ -1,0 +1,154 @@
+2024-09-03 23:37:47,501 INFO:Aucune mise à jour nécessaire. Le fichier Parquet est à jour.
+2024-09-03 23:37:47,502 INFO:Processus réalisé
+2024-09-03 23:57:37,931 INFO:No new data to update. Parquet file is up to date.
+2024-09-03 23:57:37,935 INFO:Process completed successfully.
+2024-09-04 00:01:17,808 INFO:Aucune mise à jour nécessaire. Le fichier Parquet est à jour.
+2024-09-04 00:05:30,826 WARNING:Le fichier LITS_OCCUPES_19-08-2024-113000175.csv ne semble pas avoir un bon format.
+2024-09-04 00:05:38,534 WARNING:Le fichier LITS_OCCUPES_19-08-2024-070000499.csv ne semble pas avoir un bon format.
+2024-09-04 00:05:40,200 WARNING:Le fichier LITS_OCCUPES_20-08-2024-003000256.csv ne semble pas avoir un bon format.
+2024-09-04 00:05:50,037 WARNING:Le fichier LITS_OCCUPES_19-08-2024-073000057.csv ne semble pas avoir un bon format.
+2024-09-04 00:05:54,987 WARNING:Le fichier LITS_OCCUPES_19-08-2024-140000321.csv ne semble pas avoir un bon format.
+2024-09-04 00:05:56,685 WARNING:Le fichier LITS_OCCUPES_19-08-2024-083000142.csv ne semble pas avoir un bon format.
+2024-09-04 00:06:16,117 WARNING:Le fichier LITS_OCCUPES_19-08-2024-080000099.csv ne semble pas avoir un bon format.
+2024-09-04 00:06:19,120 ERROR:Erreur avec LITS_OCCUPES_18-04-2024-080549126.csv: 'charmap' codec can't decode byte 0x90 in position 245: character maps to <undefined>
+2024-09-04 00:06:41,698 ERROR:Erreur avec LITS_OCCUPES_18-04-2024-093000258.csv: 'charmap' codec can't decode byte 0x90 in position 245: character maps to <undefined>
+2024-09-04 00:06:46,738 WARNING:Le fichier LITS_OCCUPES_19-08-2024-193000297.csv ne semble pas avoir un bon format.
+2024-09-04 00:06:46,805 WARNING:Le fichier LITS_OCCUPES_19-08-2024-103000340.csv ne semble pas avoir un bon format.
+2024-09-04 00:06:54,487 WARNING:Le fichier LITS_OCCUPES_20-08-2024-033000325.csv ne semble pas avoir un bon format.
+2024-09-04 00:07:00,805 WARNING:Le fichier LITS_OCCUPES_19-08-2024-230000230.csv ne semble pas avoir un bon format.
+2024-09-04 00:07:02,882 WARNING:Le fichier LITS_OCCUPES_19-08-2024-143000254.csv ne semble pas avoir un bon format.
+2024-09-04 00:07:11,047 WARNING:Le fichier LITS_OCCUPES_19-08-2024-183000452.csv ne semble pas avoir un bon format.
+2024-09-04 00:07:12,702 WARNING:Le fichier LITS_OCCUPES_19-08-2024-100000501.csv ne semble pas avoir un bon format.
+2024-09-04 00:07:19,225 WARNING:Le fichier LITS_OCCUPES_19-08-2024-223000548.csv ne semble pas avoir un bon format.
+2024-09-04 00:07:20,816 ERROR:Erreur avec LITS_OCCUPES_18-04-2024-083000467.csv: 'charmap' codec can't decode byte 0x90 in position 245: character maps to <undefined>
+2024-09-04 00:07:45,408 WARNING:Le fichier LITS_OCCUPES_19-08-2024-120000575.csv ne semble pas avoir un bon format.
+2024-09-04 00:07:55,267 WARNING:Le fichier LITS_OCCUPES_20-08-2024-000000107.csv ne semble pas avoir un bon format.
+2024-09-04 00:08:07,741 WARNING:Le fichier LITS_OCCUPES_19-08-2024-130000079.csv ne semble pas avoir un bon format.
+2024-09-04 00:08:29,294 WARNING:Le fichier LITS_OCCUPES_20-08-2024-030000254.csv ne semble pas avoir un bon format.
+2024-09-04 00:08:34,030 WARNING:Le fichier LITS_OCCUPES_19-08-2024-153000320.csv ne semble pas avoir un bon format.
+2024-09-04 00:08:42,144 WARNING:Le fichier LITS_OCCUPES_19-08-2024-213000317.csv ne semble pas avoir un bon format.
+2024-09-04 00:08:58,440 WARNING:Le fichier LITS_OCCUPES_20-08-2024-013000315.csv ne semble pas avoir un bon format.
+2024-09-04 00:09:00,169 WARNING:Le fichier LITS_OCCUPES_20-08-2024-010000083.csv ne semble pas avoir un bon format.
+2024-09-04 00:09:03,380 WARNING:Le fichier LITS_OCCUPES_20-08-2024-023000308.csv ne semble pas avoir un bon format.
+2024-09-04 00:09:03,380 WARNING:Le fichier LITS_OCCUPES_19-08-2024-170000036.csv ne semble pas avoir un bon format.
+2024-09-04 00:09:05,661 WARNING:Le fichier LITS_OCCUPES_20-08-2024-043000144.csv ne semble pas avoir un bon format.
+2024-09-04 00:09:10,295 WARNING:Le fichier LITS_OCCUPES_19-08-2024-133000343.csv ne semble pas avoir un bon format.
+2024-09-04 00:09:42,453 WARNING:Le fichier LITS_OCCUPES_19-08-2024-173000263.csv ne semble pas avoir un bon format.
+2024-09-04 00:09:50,022 WARNING:Le fichier LITS_OCCUPES_19-08-2024-163000527.csv ne semble pas avoir un bon format.
+2024-09-04 00:09:57,270 WARNING:Le fichier LITS_OCCUPES_20-08-2024-040000417.csv ne semble pas avoir un bon format.
+2024-09-04 00:10:00,510 WARNING:Le fichier LITS_OCCUPES_19-08-2024-190000523.csv ne semble pas avoir un bon format.
+2024-09-04 00:10:07,176 WARNING:Le fichier LITS_OCCUPES_19-08-2024-093000424.csv ne semble pas avoir un bon format.
+2024-09-04 00:10:31,709 WARNING:Le fichier LITS_OCCUPES_19-08-2024-123000474.csv ne semble pas avoir un bon format.
+2024-09-04 00:10:55,675 ERROR:Erreur avec LITS_OCCUPES_18-04-2024-090000267.csv: 'charmap' codec can't decode byte 0x90 in position 245: character maps to <undefined>
+2024-09-04 00:11:08,961 WARNING:Le fichier LITS_OCCUPES_19-08-2024-200000110.csv ne semble pas avoir un bon format.
+2024-09-04 00:11:09,776 WARNING:Le fichier LITS_OCCUPES_19-08-2024-160000097.csv ne semble pas avoir un bon format.
+2024-09-04 00:11:15,246 WARNING:Le fichier LITS_OCCUPES_19-08-2024-090000275.csv ne semble pas avoir un bon format.
+2024-09-04 00:11:17,950 WARNING:Le fichier LITS_OCCUPES_19-08-2024-203000204.csv ne semble pas avoir un bon format.
+2024-09-04 00:11:29,392 WARNING:Le fichier LITS_OCCUPES_19-08-2024-150000262.csv ne semble pas avoir un bon format.
+2024-09-04 00:12:28,732 WARNING:Le fichier LITS_OCCUPES_20-08-2024-020000233.csv ne semble pas avoir un bon format.
+2024-09-04 00:12:35,053 WARNING:Le fichier LITS_OCCUPES_19-08-2024-063000159.csv ne semble pas avoir un bon format.
+2024-09-04 00:12:38,065 WARNING:Le fichier LITS_OCCUPES_19-08-2024-110000492.csv ne semble pas avoir un bon format.
+2024-09-04 00:12:39,861 WARNING:Le fichier LITS_OCCUPES_19-08-2024-220000209.csv ne semble pas avoir un bon format.
+2024-09-04 00:12:40,331 WARNING:Le fichier LITS_OCCUPES_19-08-2024-233000364.csv ne semble pas avoir un bon format.
+2024-09-04 00:12:45,594 WARNING:Le fichier LITS_OCCUPES_19-08-2024-180000092.csv ne semble pas avoir un bon format.
+2024-09-04 00:12:46,338 WARNING:Le fichier LITS_OCCUPES_19-08-2024-210000121.csv ne semble pas avoir un bon format.
+2024-09-04 00:16:06,908 INFO:Le fichier Parquet a été mis à jour : resultat_concatenation_avec_date_heure.parquet
+2024-09-04 00:21:31,993 WARNING:Le fichier LITS_OCCUPES_19-08-2024-113000175.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:09,998 WARNING:Le fichier LITS_OCCUPES_19-08-2024-113000175.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:14,684 WARNING:Le fichier LITS_OCCUPES_19-08-2024-070000499.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:15,619 WARNING:Le fichier LITS_OCCUPES_20-08-2024-003000256.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:20,476 WARNING:Le fichier LITS_OCCUPES_19-08-2024-073000057.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:22,261 WARNING:Le fichier LITS_OCCUPES_19-08-2024-140000321.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:22,568 WARNING:Le fichier LITS_OCCUPES_19-08-2024-083000142.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:28,495 WARNING:Le fichier LITS_OCCUPES_19-08-2024-080000099.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:29,408 ERROR:Erreur lors du traitement du fichier LITS_OCCUPES_18-04-2024-080549126.csv: 'charmap' codec can't decode byte 0x90 in position 245: character maps to <undefined>
+2024-09-04 00:24:35,583 ERROR:Erreur lors du traitement du fichier LITS_OCCUPES_18-04-2024-093000258.csv: 'charmap' codec can't decode byte 0x90 in position 245: character maps to <undefined>
+2024-09-04 00:24:36,876 WARNING:Le fichier LITS_OCCUPES_19-08-2024-193000297.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:36,906 WARNING:Le fichier LITS_OCCUPES_19-08-2024-103000340.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:39,603 WARNING:Le fichier LITS_OCCUPES_20-08-2024-033000325.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:42,292 WARNING:Le fichier LITS_OCCUPES_19-08-2024-230000230.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:43,402 WARNING:Le fichier LITS_OCCUPES_19-08-2024-143000254.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:48,860 WARNING:Le fichier LITS_OCCUPES_19-08-2024-183000452.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:49,464 WARNING:Le fichier LITS_OCCUPES_19-08-2024-100000501.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:52,412 WARNING:Le fichier LITS_OCCUPES_19-08-2024-223000548.csv ne semble pas avoir un bon format.
+2024-09-04 00:24:52,955 ERROR:Erreur lors du traitement du fichier LITS_OCCUPES_18-04-2024-083000467.csv: 'charmap' codec can't decode byte 0x90 in position 245: character maps to <undefined>
+2024-09-04 00:25:05,842 WARNING:Le fichier LITS_OCCUPES_19-08-2024-120000575.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:08,650 WARNING:Le fichier LITS_OCCUPES_20-08-2024-000000107.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:12,401 WARNING:Le fichier LITS_OCCUPES_19-08-2024-130000079.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:18,160 WARNING:Le fichier LITS_OCCUPES_20-08-2024-030000254.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:19,373 WARNING:Le fichier LITS_OCCUPES_19-08-2024-153000320.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:22,012 WARNING:Le fichier LITS_OCCUPES_19-08-2024-213000317.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:28,166 WARNING:Le fichier LITS_OCCUPES_20-08-2024-013000315.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:28,921 WARNING:Le fichier LITS_OCCUPES_20-08-2024-010000083.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:29,933 WARNING:Le fichier LITS_OCCUPES_20-08-2024-023000308.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:29,934 WARNING:Le fichier LITS_OCCUPES_19-08-2024-170000036.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:30,644 WARNING:Le fichier LITS_OCCUPES_20-08-2024-043000144.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:32,147 WARNING:Le fichier LITS_OCCUPES_19-08-2024-133000343.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:44,302 WARNING:Le fichier LITS_OCCUPES_19-08-2024-173000263.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:47,784 WARNING:Le fichier LITS_OCCUPES_19-08-2024-163000527.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:51,246 WARNING:Le fichier LITS_OCCUPES_20-08-2024-040000417.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:52,579 WARNING:Le fichier LITS_OCCUPES_19-08-2024-190000523.csv ne semble pas avoir un bon format.
+2024-09-04 00:25:55,104 WARNING:Le fichier LITS_OCCUPES_19-08-2024-093000424.csv ne semble pas avoir un bon format.
+2024-09-04 00:26:05,338 WARNING:Le fichier LITS_OCCUPES_19-08-2024-123000474.csv ne semble pas avoir un bon format.
+2024-09-04 00:26:33,240 ERROR:Erreur lors du traitement du fichier LITS_OCCUPES_18-04-2024-090000267.csv: 'charmap' codec can't decode byte 0x90 in position 245: character maps to <undefined>
+2024-09-04 00:26:52,775 WARNING:Le fichier LITS_OCCUPES_19-08-2024-200000110.csv ne semble pas avoir un bon format.
+2024-09-04 00:26:53,268 WARNING:Le fichier LITS_OCCUPES_19-08-2024-160000097.csv ne semble pas avoir un bon format.
+2024-09-04 00:26:57,122 WARNING:Le fichier LITS_OCCUPES_19-08-2024-090000275.csv ne semble pas avoir un bon format.
+2024-09-04 00:26:59,323 WARNING:Le fichier LITS_OCCUPES_19-08-2024-203000204.csv ne semble pas avoir un bon format.
+2024-09-04 00:27:04,955 WARNING:Le fichier LITS_OCCUPES_19-08-2024-150000262.csv ne semble pas avoir un bon format.
+2024-09-04 00:27:41,891 WARNING:Le fichier LITS_OCCUPES_20-08-2024-020000233.csv ne semble pas avoir un bon format.
+2024-09-04 00:27:45,223 WARNING:Le fichier LITS_OCCUPES_19-08-2024-063000159.csv ne semble pas avoir un bon format.
+2024-09-04 00:27:47,306 WARNING:Le fichier LITS_OCCUPES_19-08-2024-110000492.csv ne semble pas avoir un bon format.
+2024-09-04 00:27:47,853 WARNING:Le fichier LITS_OCCUPES_19-08-2024-220000209.csv ne semble pas avoir un bon format.
+2024-09-04 00:27:48,088 WARNING:Le fichier LITS_OCCUPES_19-08-2024-233000364.csv ne semble pas avoir un bon format.
+2024-09-04 00:27:51,739 WARNING:Le fichier LITS_OCCUPES_19-08-2024-180000092.csv ne semble pas avoir un bon format.
+2024-09-04 00:27:52,690 WARNING:Le fichier LITS_OCCUPES_19-08-2024-210000121.csv ne semble pas avoir un bon format.
+2024-09-04 00:30:59,433 WARNING:Le fichier LITS_OCCUPES_19-08-2024-113000175.csv ne semble pas avoir un bon format.
+2024-09-04 00:31:05,936 WARNING:Le fichier LITS_OCCUPES_19-08-2024-070000499.csv ne semble pas avoir un bon format.
+2024-09-04 00:31:07,151 WARNING:Le fichier LITS_OCCUPES_20-08-2024-003000256.csv ne semble pas avoir un bon format.
+2024-09-04 00:31:14,350 WARNING:Le fichier LITS_OCCUPES_19-08-2024-073000057.csv ne semble pas avoir un bon format.
+2024-09-04 00:31:16,654 WARNING:Le fichier LITS_OCCUPES_19-08-2024-140000321.csv ne semble pas avoir un bon format.
+2024-09-04 00:31:17,262 WARNING:Le fichier LITS_OCCUPES_19-08-2024-083000142.csv ne semble pas avoir un bon format.
+2024-09-04 00:31:28,615 WARNING:Le fichier LITS_OCCUPES_19-08-2024-080000099.csv ne semble pas avoir un bon format.
+2024-09-04 00:31:30,173 ERROR:Erreur lors du traitement du fichier LITS_OCCUPES_18-04-2024-080549126.csv: 'charmap' codec can't decode byte 0x90 in position 245: character maps to <undefined>
+2024-09-04 00:31:41,641 ERROR:Erreur lors du traitement du fichier LITS_OCCUPES_18-04-2024-093000258.csv: 'charmap' codec can't decode byte 0x90 in position 245: character maps to <undefined>
+2024-09-04 00:31:44,161 WARNING:Le fichier LITS_OCCUPES_19-08-2024-193000297.csv ne semble pas avoir un bon format.
+2024-09-04 00:31:44,203 WARNING:Le fichier LITS_OCCUPES_19-08-2024-103000340.csv ne semble pas avoir un bon format.
+2024-09-04 00:31:49,151 WARNING:Le fichier LITS_OCCUPES_20-08-2024-033000325.csv ne semble pas avoir un bon format.
+2024-09-04 00:31:53,013 WARNING:Le fichier LITS_OCCUPES_19-08-2024-230000230.csv ne semble pas avoir un bon format.
+2024-09-04 00:31:54,481 WARNING:Le fichier LITS_OCCUPES_19-08-2024-143000254.csv ne semble pas avoir un bon format.
+2024-09-04 00:32:00,593 WARNING:Le fichier LITS_OCCUPES_19-08-2024-183000452.csv ne semble pas avoir un bon format.
+2024-09-04 00:32:01,832 WARNING:Le fichier LITS_OCCUPES_19-08-2024-100000501.csv ne semble pas avoir un bon format.
+2024-09-04 00:32:06,401 WARNING:Le fichier LITS_OCCUPES_19-08-2024-223000548.csv ne semble pas avoir un bon format.
+2024-09-04 00:32:07,272 ERROR:Erreur lors du traitement du fichier LITS_OCCUPES_18-04-2024-083000467.csv: 'charmap' codec can't decode byte 0x90 in position 245: character maps to <undefined>
+2024-09-04 00:32:25,430 WARNING:Le fichier LITS_OCCUPES_19-08-2024-120000575.csv ne semble pas avoir un bon format.
+2024-09-04 00:32:33,396 WARNING:Le fichier LITS_OCCUPES_20-08-2024-000000107.csv ne semble pas avoir un bon format.
+2024-09-04 00:32:42,367 WARNING:Le fichier LITS_OCCUPES_19-08-2024-130000079.csv ne semble pas avoir un bon format.
+2024-09-04 00:32:52,763 WARNING:Le fichier LITS_OCCUPES_20-08-2024-030000254.csv ne semble pas avoir un bon format.
+2024-09-04 00:32:54,721 WARNING:Le fichier LITS_OCCUPES_19-08-2024-153000320.csv ne semble pas avoir un bon format.
+2024-09-04 00:32:59,113 WARNING:Le fichier LITS_OCCUPES_19-08-2024-213000317.csv ne semble pas avoir un bon format.
+2024-09-04 00:33:09,726 WARNING:Le fichier LITS_OCCUPES_20-08-2024-013000315.csv ne semble pas avoir un bon format.
+2024-09-04 00:33:10,976 WARNING:Le fichier LITS_OCCUPES_20-08-2024-010000083.csv ne semble pas avoir un bon format.
+2024-09-04 00:33:12,715 WARNING:Le fichier LITS_OCCUPES_20-08-2024-023000308.csv ne semble pas avoir un bon format.
+2024-09-04 00:33:12,716 WARNING:Le fichier LITS_OCCUPES_19-08-2024-170000036.csv ne semble pas avoir un bon format.
+2024-09-04 00:33:14,718 WARNING:Le fichier LITS_OCCUPES_20-08-2024-043000144.csv ne semble pas avoir un bon format.
+2024-09-04 00:33:17,499 WARNING:Le fichier LITS_OCCUPES_19-08-2024-133000343.csv ne semble pas avoir un bon format.
+2024-09-04 00:33:39,062 WARNING:Le fichier LITS_OCCUPES_19-08-2024-173000263.csv ne semble pas avoir un bon format.
+2024-09-04 00:33:46,315 WARNING:Le fichier LITS_OCCUPES_19-08-2024-163000527.csv ne semble pas avoir un bon format.
+2024-09-04 00:33:50,487 WARNING:Le fichier LITS_OCCUPES_20-08-2024-040000417.csv ne semble pas avoir un bon format.
+2024-09-04 00:33:52,206 WARNING:Le fichier LITS_OCCUPES_19-08-2024-190000523.csv ne semble pas avoir un bon format.
+2024-09-04 00:33:54,812 WARNING:Le fichier LITS_OCCUPES_19-08-2024-093000424.csv ne semble pas avoir un bon format.
+2024-09-04 00:34:04,833 WARNING:Le fichier LITS_OCCUPES_19-08-2024-123000474.csv ne semble pas avoir un bon format.
+2024-09-04 00:34:18,286 ERROR:Erreur lors du traitement du fichier LITS_OCCUPES_18-04-2024-090000267.csv: 'charmap' codec can't decode byte 0x90 in position 245: character maps to <undefined>
+2024-09-04 00:34:27,709 WARNING:Le fichier LITS_OCCUPES_19-08-2024-200000110.csv ne semble pas avoir un bon format.
+2024-09-04 00:34:28,214 WARNING:Le fichier LITS_OCCUPES_19-08-2024-160000097.csv ne semble pas avoir un bon format.
+2024-09-04 00:34:31,414 WARNING:Le fichier LITS_OCCUPES_19-08-2024-090000275.csv ne semble pas avoir un bon format.
+2024-09-04 00:34:33,265 WARNING:Le fichier LITS_OCCUPES_19-08-2024-203000204.csv ne semble pas avoir un bon format.
+2024-09-04 00:34:38,519 WARNING:Le fichier LITS_OCCUPES_19-08-2024-150000262.csv ne semble pas avoir un bon format.
+2024-09-04 00:34:59,017 WARNING:Le fichier LITS_OCCUPES_20-08-2024-020000233.csv ne semble pas avoir un bon format.
+2024-09-04 00:35:02,543 WARNING:Le fichier LITS_OCCUPES_19-08-2024-063000159.csv ne semble pas avoir un bon format.
+2024-09-04 00:35:04,869 WARNING:Le fichier LITS_OCCUPES_19-08-2024-110000492.csv ne semble pas avoir un bon format.
+2024-09-04 00:35:06,244 WARNING:Le fichier LITS_OCCUPES_19-08-2024-220000209.csv ne semble pas avoir un bon format.
+2024-09-04 00:35:06,610 WARNING:Le fichier LITS_OCCUPES_19-08-2024-233000364.csv ne semble pas avoir un bon format.
+2024-09-04 00:35:10,858 WARNING:Le fichier LITS_OCCUPES_19-08-2024-180000092.csv ne semble pas avoir un bon format.
+2024-09-04 00:35:11,546 WARNING:Le fichier LITS_OCCUPES_19-08-2024-210000121.csv ne semble pas avoir un bon format.
